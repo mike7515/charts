@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   chartmuseum:
   - apiVersion: v2
-    appVersion: 0.14.0
-    created: "2022-02-17T10:19:48.225458449Z"
+    appVersion: 1.0.0
+    created: "2022-02-17T10:25:45.283118476Z"
     description: Host your own Helm Chart Repository
-    digest: c8b52ea7d9b894d545af86055cc7e1aac5f57b295416f826cf1c6e8dc2c2ee81
+    digest: 1d5330d180b2f11c84130d6cd7e094dac3cfa386e7fb7af9f304e35a69af2d53
     home: https://github.com/helm/chartmuseum
     icon: https://raw.githubusercontent.com/mike7515/charts/main/logo.jpg
     keywords:
@@ -21,6 +21,6 @@ entries:
     - https://github.com/chartmuseum
     - https://github.com/helm/chartmuseum
     urls:
-    - https://github.com/mike7515/charts/releases/download/chartmuseum-3.6.2/chartmuseum-3.6.2.tgz
-    version: 3.6.2
-generated: "2022-02-17T10:19:48.22546805Z"
+    - https://github.com/mike7515/charts/releases/download/chartmuseum-1.0.0/chartmuseum-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-02-17T10:25:45.283127876Z"
